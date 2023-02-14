@@ -1,1 +1,8 @@
-I developed this
+Main- Go into final production
+Develop- Development and to deploy
+Test- run  tests on Developed code
+Release - Releasing final code, no more merges or no more major modification.
+
+Merging:
+- moving code to required brance
+- go to pull requests we can see what merges happened
